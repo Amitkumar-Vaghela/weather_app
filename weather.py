@@ -18,7 +18,7 @@ def weather():
         city = 'Baroda'
   
     # your API key will come here 
-    api = api_key_here 
+    api = 
   
     # source contain json data from api 
     source = urllib.request.urlopen('http://api.openweathermap.org/data/2.5/weather?q =' + city + '&appid =' + api).read() 
