@@ -15,13 +15,11 @@ Bootstrap 3.4.0 (included via CDN)
 jQuery 3.4.1 (included via CDN)
 
 Installation
-1.Clone this repository to your local machine:
-git clone https://github.com/Amitkumar-vaghela/weather-app.git
-2.Navigate into the project directory:
+1.Navigate into the project directory:
 cd weather-app
-3.Install the required Python packages using pip:
+2.Install the required Python packages using pip:
 pip install -r requirements.txt
-4.Get an API key from OpenWeatherMap and replace <your-api-key> in app.py with your actual API key.
+3.Get an API key from OpenWeatherMap and replace <your-api-key> in app.py with your actual API key.
 
 Usage
 1.Run the Flask application:
