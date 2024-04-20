@@ -1,5 +1,5 @@
 
-![User Registration Form]()
+![User Registration Form](https://github.com/Amitkumar-Vaghela/weather_app/blob/master/templates/weather_layout.png)
 
 Weather App
 This is a simple Flask web application that fetches weather data using the OpenWeatherMap API based on the user's input.
