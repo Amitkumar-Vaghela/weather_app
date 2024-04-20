@@ -1,3 +1,6 @@
+
+![User Registration Form]()
+
 Weather App
 This is a simple Flask web application that fetches weather data using the OpenWeatherMap API based on the user's input.
 
