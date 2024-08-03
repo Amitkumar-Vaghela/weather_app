@@ -29,6 +29,10 @@ def weather():
 
     return render_template('index.html', data=None)
 
+@app.route('/logo')
+def logo():
+    return render_template('logo.html')
+
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
