@@ -4,7 +4,6 @@ import json
 
 app = Flask(__name__)
 
-# OpenWeatherMap API endpoint and API key
 WEATHER_API_ENDPOINT = 'http://api.openweathermap.org/data/2.5/weather'
 API_KEY = '0a9d48239b15a060da1987896755ce39'
 
