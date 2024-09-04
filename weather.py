@@ -34,7 +34,7 @@ def weather():
 def logo():
     return render_template('logo.html')
 
-@app.route('/static/')
+@app.route('/static')
 def send_static(path):
     return send_from_directory('static', path)
 
